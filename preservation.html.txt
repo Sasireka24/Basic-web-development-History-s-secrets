@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head><title>Preservation</title></head>
+<body>
+<header><a href="index.html">
+<img src="img/logo.jpg" alt="History's Secrets" title="History's Secrets-known the unknown">
+
+</a>
+
+
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="architecture.html">Architecture</a></td>
+<td><a href="preservation.html">Preservation</a></td>
+<td><a href="references.html">References</a></td>
+</tr>
+</nav>
+</table>
+<hr>
+<h2>Preservation</h2>
+<table>
+<tr>
+<td>
+<header>
+<a href="Protection/the-facts-of-temple.html">
+<h3>Who protects the temple?</h3>
+</a>
+</header>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vettuvan Koil is maintained and administered by Department of Archaeology of the Government of Tamil Nadu as a protected monument.[9] Kalugumalai was chosen in the plan to be included as a rural tourism site in Incredible India campaign by the Tourism Ministry of the Government of India.[10] As a part of the campaign the ministry allocated ₹10 million to develop the infrastructure around the region in 2008. The tourist inflow to the town increased to 3,000 persons per month during 2009 from 400 per month during the previous years.[</p>
+
+
+</td>
+</tr>
+</table>
+<hr>
+<footer>
+copyright &copy; History's Secrets 2020-2021
+</footer>
+</body>

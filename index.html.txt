@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head><title>The History of Vettuvan Koil-Kalugumalai</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="History's Secrets" title="History's Secrets-know the unknown">
+
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="architecture.html">Architecture</a></td>
+<td><a href="preservation.html">Preservation</a></td>
+<td><a href="references.html">References</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to know the unknown Mistery</h2>
+<p>
+Vettuvan Koil in kalugumalai is constructed in a Pandyan Architecture and rock 
+cut architecture,the unfinished temple was built during the 8th century by the
+early Pandyas.
+</p>
+<img src="img/temple.jpg" width="100%" height="100%"
+title="Everything in existence holds a perfect harmonic blueprint">
+<ul>
+<li>Vettuvan koil in Kalugumalai, a panchayat town in Thoothukudi district in the state of Tamil Nadu.</li>
+<li>This rock-cut temple is notable for its architecture and construction method.</li>
+<li>The early Pandya rulers helped build numerous cave and stone temples. </li>
+<li>It is an example of a Pandya era monolithic temple.</li>
+<li>The temple was carved out in three dimensions, in-situ from the top of the hillock.</li>
+</ul>
+<p><strong>Protected Monument</strong></p>
+<hr>
+<footer>
+copyright &copy; History's Secrets 2020-2021
+</footer>
+</body>
